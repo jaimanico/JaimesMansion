@@ -1,0 +1,1 @@
+This is a C based text adventure game, make sure to have VS code or codeblocks to be able to run it, add both files into the same folder for the program to read the custom header and you are all done:)
